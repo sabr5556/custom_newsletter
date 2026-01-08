@@ -1,0 +1,134 @@
+{
+    "CNBC": 
+    {
+        "tags" : 
+        {
+            "article": "item",
+            "title": "title",
+            "summary": "description",
+            "link": "link",
+            "date": "pubDate",
+            "link_attr": null
+        },
+        "categories":
+        {
+            "Top News" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
+            "World News" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362",
+            "US news" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15837362",
+            "Asia news" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19832390",
+            "Europe News" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19794221",
+            "Business" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+            "Earnings" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839135",
+            "Commentary" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100370673",
+            "Economy" : "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+            "Finance":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+            "Technology":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
+            "Politics":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+            "Healthcare":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
+            "Real Estate":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115",
+            "Wealth":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
+            "Autos":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000101",
+            "Energy":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19836768",
+            "Media":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000110",
+            "Retail":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000116",
+            "Travel":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000739",
+            "Small Business":"https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=44877279"
+        }
+     },
+     "Verge":
+     {
+        "tags":
+        {
+            "article": "entry",
+            "title": "title",
+            "summary": "content",
+            "link": "link",
+            "date": "published",  
+            "link_attr": "href"
+        },
+        "categories": 
+        {
+            "All Stories":"https://www.theverge.com/rss/index.xml",
+            "Tech":"https://www.theverge.com/rss/tech/index.xml",
+            "Reviews":"https://www.theverge.com/rss/reviews/index.xml",
+            "Science":"https://www.theverge.com/rss/science/index.xml",
+            "Creators":"https://www.theverge.com/rss/creators/index.xml",
+            "Entertainment":"https://www.theverge.com/rss/entertainment/index.xml",
+            "AI":"https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+            "Games":"https://www.theverge.com/rss/games/index.xml"
+        }    
+     },
+     "TechCrunch":
+    {
+        "tags": 
+        {
+            "article": "item",
+            "title": "title",
+            "summary": "description",
+            "link": "link",
+            "date": "pubDate",
+            "link_attr": null
+        },
+        "categories":
+        {
+            "Main": "https://techcrunch.com/feed/",
+            "Startups": "https://techcrunch.com/category/startups/feed/",
+            "AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
+            "Apps": "https://techcrunch.com/category/apps/feed/",
+            "Security": "https://techcrunch.com/category/security/feed/"
+        }
+    },
+    "ESPN": {
+        "tags": {
+            "article": "item",
+            "title": "title",
+            "summary": "description",
+            "link": "link",
+            "date": "pubDate",
+            "link_attr": null
+        },
+        "categories": {
+            "Top Headlines": "https://www.espn.com/espn/rss/news",
+            "NFL": "https://www.espn.com/espn/rss/nfl/news",
+            "NBA": "https://www.espn.com/espn/rss/nba/news",
+            "MLB": "https://www.espn.com/espn/rss/mlb/news",
+            "NHL": "https://www.espn.com/espn/rss/nhl/news"
+        }
+    },
+    "Yahoo Sports": {
+        "tags": {
+            "article": "item",
+            "title": "title",
+            "summary": "description",
+            "link": "link",
+            "date": "pubDate",
+            "link_attr": null
+        },
+        "categories": {
+            "Top Stories": "https://sports.yahoo.com/rss/",
+            "Soccer": "https://sports.yahoo.com/soccer/rss/",
+            "NFL": "https://sports.yahoo.com/nfl/rss/",
+            "NBA": "https://sports.yahoo.com/nba/rss/",
+            "MLB": "https://sports.yahoo.com/mlb/rss/",
+            "NHL": "https://sports.yahoo.com/nhl/rss/"
+        }
+    },
+    "BBC Sport": {
+        "tags": {
+            "article": "item",
+            "title": "title",
+            "summary": "description",
+            "link": "link",
+            "date": "pubDate",
+            "link_attr": null
+        },
+        "categories": {
+            "All Sport": "https://feeds.bbci.co.uk/sport/rss.xml",
+            "Football (Soccer)": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+            "Formula 1": "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+            "Cricket": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
+            "Rugby Union": "https://feeds.bbci.co.uk/sport/rugby-union/rss.xml"
+        }
+    }
+
+}

@@ -1,0 +1,20 @@
+# --- Python Standard ---
+__pycache__/
+*.py[cod]
+
+# --- Environment Variables (CRITICAL) ---
+# Never push API keys
+.env
+
+# --- Database Files ---
+# Ignores user_info.db and any other future SQLite DBs
+*.db
+
+# --- Generated Data Files ---
+# Specific generated JSONs to ignore
+master_feed.json
+news_feed.json
+
+# --- OS System Files ---
+# Mac system file that often clutters repos
+.DS_Store
